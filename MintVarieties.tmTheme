@@ -1,13 +1,11 @@
-
-
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Visual Studio Dark</string>
+	<string>MintVarieties</string>
 	<key>author</key>
-	<string>Niklas Mollenhauer</string>
+	<string>Edoardo Casella</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -465,7 +463,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#0058A0</string>
+				<string>#0259A1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -611,5 +609,9 @@
 	</array>
 	<key>uuid</key>
 	<string>2fd1a8f9-ddfd-11e2-a28f-0800200c9a66</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>semanticClass</key>
+	<string>theme.dark.visual_studio_dark</string>
 </dict>
 </plist>
