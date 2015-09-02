@@ -1,4 +1,4 @@
-# mintvarieties-theme
+# Mint Varieties Theme 
 Sublime Text 3 theme: mint varieties
 
 
